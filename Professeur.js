@@ -1,5 +1,14 @@
 
 /**
+ * Projet : Demostration d'utilisation de Git dans VSCode
+ * Auteur : Franklin Tagakou
+ * Date : 05 février 2021
+ */
+/**
+ * Cette classe représente un employé d'une Université
+ */
+
+/**
  * Cette classe représente un employé d'une Université
  */
 class EmployeUniversite {
